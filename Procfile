@@ -1,0 +1,1 @@
+preview: cd demo; bundle install; bin/rails s -p 4000
